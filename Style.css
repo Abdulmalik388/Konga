@@ -1,0 +1,123 @@
+.g{
+    width: 100%;
+}
+.ul{
+    width: 100%;
+position: absolute;
+
+
+}
+.gas{
+    text-decoration: none;
+}
+
+.gas a{
+    text-decoration: none;
+}
+.gty{
+    width: 90%;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.p{
+    margin-right: 30px;
+}
+.d{
+    width: 350px;
+}
+.hyt{
+    width: 100%;
+    margin-top: 40px;
+    padding: 30px;
+}
+.div{
+    display: flex;
+gap: 60px;
+}
+
+.jh{
+margin-left: 40px;
+gap: 30px;
+}
+.h2{
+    margin-bottom: 30px;
+}
+.dis{
+    display: flex;
+    gap: 20px;
+}
+.hes{
+    margin-right: 10px;
+    width: 30%;
+}
+.ger{
+    margin-top: 10px;
+}
+.uy{
+    background-color: rgb(182, 28, 79);
+    color: white;
+}
+#hr{
+    width: 100%;
+    margin-left: 30px;
+    
+}
+.go{
+    margin-right: 10px;
+}
+.hytt{
+   background-color: rgb(68, 61, 61); 
+   width: 100%;
+}
+.herr{
+    margin-right: 150px;
+}
+.thw{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.two{
+    display: inline-block;
+}
+.ghu{
+    color: rgb(182, 28, 79);
+      
+}
+#p{
+    margin-left: 80px;
+    color: rgb(182, 28, 79);
+}
+.ther{
+    background-color: rgb(255, 145, 0);
+    margin-top: 30px;
+    width: 95%;
+    margin-left:35px;
+}
+.main{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.ku{
+    width: 100%;
+}
+.it{
+    gap: 25px;
+    margin-left: 20px;
+}
+.gh{
+    width: 100%;
+}
+.fg{
+    background-color: rgb(80, 23, 33);
+}
+#main{
+    display: flex;
+    background-color: rgb(182, 28, 79);
+    border-radius: 10px;
+}
+.po{
+    margin-top: 15px;
+margin-left: 70px;
+}
